@@ -1,0 +1,15 @@
+div {
+	height: 500px;
+}
+
+@media (max-width: 400px) {
+	div {
+		background-color: red;
+	}
+}
+
+@media (min-width: 401px) {
+	div {
+		background-color: purple;
+	}
+}

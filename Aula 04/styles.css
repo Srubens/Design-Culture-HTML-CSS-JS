@@ -1,0 +1,29 @@
+h1 {
+  margin: 0;
+  /*border:solid;*/
+  /*display:inline;*/
+}
+
+#title1 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: lighter;
+  font-size: 70px;
+  font-family: "Times New Roman";
+}
+
+#title2 {
+  font-style:italic;
+  font-variant: small-caps;
+  font-weight: 400;
+  font-size:100px;
+  font-family: Arial;
+}
+
+#title3 {
+  font-style: oblique;
+  font-variant: normal;
+  font-weight: 900; /*same as bold*/
+  font-size:30px;
+  font-family: "Courier New";
+}
