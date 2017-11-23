@@ -1,0 +1,18 @@
+#root {
+  background-attachment: fixed;
+  background-image: url("http://bit.ly/2zgdbDf");
+  height: 1400px;
+}
+
+#half1 {
+  height: 700px;
+  background: url("http://bit.ly/2iL6NOj");
+  background-repeat: no-repeat;
+}
+
+#half1 > h1 {
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 5%;
+}
