@@ -11,4 +11,4 @@ Repositório que armazenará conteúdos vistos em aula, além de soluções de d
 * DevFest XP: https://devfestxp.com/
 
 # Avisos
-* Próxima Quinta-feira (30/11) não haverá aula em decorrência da utilização dos espaço para o evento Rec n' Play,
+* Próxima Quinta-feira (30/11) não haverá aula em decorrência da utilização dos espaço para o evento Rec n' Play.
