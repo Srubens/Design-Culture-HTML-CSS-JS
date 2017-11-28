@@ -1,0 +1,37 @@
+.first {
+  height:50px;
+  border-style: solid;
+  border-color: pink;
+  margin-bottom: 20px;
+}
+
+.first:hover {
+  background-color: green;
+  border-style: dotted;
+  border-color: yellow;
+}
+
+.second {
+  height:50px;
+  border-style: dashed;
+  border-color: gray;
+  margin-bottom: 20px;
+}
+
+.second:hover {
+  background-color: red;
+  border-style: outset;
+  border-color: blue;
+}
+
+.third {
+  height:50px;
+  border-style: double;
+  border-color: lightblue;
+}
+
+.third:hover {
+  background-color: brown;
+  border-style: groove;
+  border-color: purple;
+}

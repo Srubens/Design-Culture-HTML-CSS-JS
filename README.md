@@ -1,6 +1,11 @@
 # Design Culture: HTML + CSS + JS
 Repositório que armazenará conteúdos vistos em aula, além de soluções de desafios e exercícios
 
+# Contatos
+* Email: diogo.cabral.dev@gmail.com
+* Twitter: https://twitter.com/DrCabrales
+* CodePen: https://codepen.io/Drcabral
+
 # Links Úteis
 * https://www.w3schools.com/
 * https://codepen.io/
