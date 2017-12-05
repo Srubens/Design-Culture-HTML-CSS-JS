@@ -1,0 +1,14 @@
+div {
+  height: 100px;
+  width: 100px;
+  background: red;
+  border-radius: 50%;
+  transition: height 5s, width 5s;
+  transition-delay: 2s;
+  transition-time-function: ease-in;
+}
+
+div:hover{
+  height: 300px;
+  width: 700px;
+}
