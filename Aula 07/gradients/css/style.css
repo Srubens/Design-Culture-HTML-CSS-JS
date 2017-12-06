@@ -1,0 +1,16 @@
+div {
+  height: 200px;
+  border: 1px solid;
+/*   background: linear-gradient(blue, green); */
+/*   background: linear-gradient(to right, blue, green); */
+/*   background: linear-gradient(to left, blue, green); */
+/*     background: linear-gradient(to top, blue, green); */
+/*       background: linear-gradient(to bottom right, blue, green); */
+/*   background: linear-gradient(-90deg, blue, green); */
+/*   background: linear-gradient(purple, blue, green); */
+/*   background: linear-gradient(rgba(255,0,0,0.5), rgba(0,0,255, 0.5)); */
+/*   background: repeating-linear-gradient( blue, green 10%); */
+/*   background: radial-gradient(red, green, blue 10%); */
+/*   background: radial-gradient(circle, red, green, blue 10%);  */
+/*   background: repeating-radial-gradient(red, green, blue 10%);  */
+}

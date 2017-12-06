@@ -1,0 +1,13 @@
+div {
+  height:50px;
+  width:50px;
+  background: radial-gradient(red, blue);
+  border: 1px solid;
+  transition: height 2s, width 2s, background;
+}
+
+div:hover{
+  height:150px;
+  width:150px;
+  background: radial-gradient(rgba(255,0,0,0.5), rgba(0,0,255, 0.5));  
+}

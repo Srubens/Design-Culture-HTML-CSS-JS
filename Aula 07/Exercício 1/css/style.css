@@ -1,0 +1,21 @@
+div {
+  margin-bottom: 10px;
+  height: 100px;
+  border: 1px solid;
+}
+
+#firstGrad {
+  background: linear-gradient(to right, red, blue);
+}
+
+#secondGrad {
+  background: radial-gradient(red, blue);
+}
+
+#thirdGrad {
+  background: repeating-linear-gradient(red, blue 10%);
+}
+
+#fourthGrad {
+  background: repeating-radial-gradient(red, blue 10%);
+}
