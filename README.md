@@ -21,4 +21,9 @@ Repositório que armazenará conteúdos vistos em aula, além de soluções de d
 * DevFest XP: https://devfestxp.com/
 * GDG Recife: https://www.gdgrecife.com/
 
+# Podcast sobre Front-End
+* Zofe - Zone of Front-enders: http://zofe.com.br/
+* Podprogramar: https://mundopodcast.com.br/podprogramar/10-front-end/
+* Front-End Happy Hour: http://frontendhappyhour.com/ (Podcasts em Inglês)
+
 # Avisos
