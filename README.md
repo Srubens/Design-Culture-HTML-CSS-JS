@@ -8,12 +8,22 @@ Repositório que armazenará conteúdos vistos em aula, além de soluções de d
 
 # Links Úteis
 * https://www.w3schools.com/
+* http://html5doctor.com/
+* https://developer.mozilla.org/pt-BR/docs/Web
 * https://codepen.io/
-* https://github.com/estevanmaito/apenas-crie-websites 
+* https://github.com/estevanmaito/apenas-crie-websites
+* https://mediaqueri.es/ (Referência de Sites Responsivos)
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 # Comunidade e Eventos
 * Front-End Meet-Up Group Pernambuco: https://www.facebook.com/femugpe/
 * DevFest XP: https://devfestxp.com/
+* GDG Recife: https://www.gdgrecife.com/
+
+# Podcast sobre Front-End
+* Zofe - Zone of Front-enders: http://zofe.com.br/
+* Podprogramar: https://mundopodcast.com.br/podprogramar/10-front-end/
+* Front-End Happy Hour: http://frontendhappyhour.com/ (Podcasts em Inglês)
+* DevnaEstrada:	https://devnaestrada.com.br/
 
 # Avisos
-* Próxima Quinta-feira (30/11) não haverá aula em decorrência da utilização dos espaço para o evento Rec n' Play.
