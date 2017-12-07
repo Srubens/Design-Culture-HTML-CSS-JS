@@ -15,10 +15,15 @@ Repositório que armazenará conteúdos vistos em aula, além de soluções de d
 * https://mediaqueri.es/ (Referência de Sites Responsivos)
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-
 # Comunidade e Eventos
 * Front-End Meet-Up Group Pernambuco: https://www.facebook.com/femugpe/
 * DevFest XP: https://devfestxp.com/
 * GDG Recife: https://www.gdgrecife.com/
+
+# Podcast sobre Front-End
+* Zofe - Zone of Front-enders: http://zofe.com.br/
+* Podprogramar: https://mundopodcast.com.br/podprogramar/10-front-end/
+* Front-End Happy Hour: http://frontendhappyhour.com/ (Podcasts em Inglês)
+* DevnaEstrada:	https://devnaestrada.com.br/
 
 # Avisos
