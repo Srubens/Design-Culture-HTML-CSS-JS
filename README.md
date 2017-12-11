@@ -28,3 +28,4 @@ Repositório que armazenará conteúdos vistos em aula, além de soluções de d
 * DevnaEstrada:	https://devnaestrada.com.br/
 
 # Avisos
+* Aula do dia 14/12 será antecipada para o dia 13/12 (Quarta-feira). Os que não puderem comparecer favor entrar em contato para agendarmos uma aula online, caso seja de interesse, para tirar dúvidas ou receber explicações sobre o conteúdo que será dado nessa aula.
