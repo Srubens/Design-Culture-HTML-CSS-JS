@@ -14,6 +14,7 @@ Repositório que armazenará conteúdos vistos em aula, além de soluções de d
 * https://github.com/estevanmaito/apenas-crie-websites
 * https://mediaqueri.es/ (Referência de Sites Responsivos)
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc (Canal Rodrigo Branas - Desvendado a linguagem JavaScript)
 
 # Comunidade e Eventos
 * Front-End Meet-Up Group Pernambuco: https://www.facebook.com/femugpe/
